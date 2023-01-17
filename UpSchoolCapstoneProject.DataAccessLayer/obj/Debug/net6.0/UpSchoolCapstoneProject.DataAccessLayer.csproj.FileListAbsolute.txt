@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.deps.json
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.runtimeconfig.json
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.EntityLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.EntityLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.csproj.CopyComplete
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\refint\UpSchoolCapstoneProject.DataAccessLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.genruntimeconfig.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DataAccessLayer\obj\Debug\net6.0\ref\UpSchoolCapstoneProject.DataAccessLayer.dll
