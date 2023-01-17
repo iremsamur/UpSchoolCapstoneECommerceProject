@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "DZYGvFnDFoIkgMEgEuI4juhauNRrJm8eEcrj0+kWBYZ5NAsnh3x7F9MpnoVNI8Ghm8oN+C//00i6LSZ+ZHzyRA==",
+  "dgSpecHash": "eofdHqu2BhYtdAyFYTRHnJCuAA1GKaETR7+U9avGoD4KA1yWUR76fXPjQ/kR1s0SL1y4qEIcPYyMchUKr/vwUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\UpSchoolBootcamp\\UpSchoolCapstoneProject.UILayer\\UpSchoolCapstoneProject.DTOLayer\\UpSchoolCapstoneProject.DTOLayer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.expressionmapping\\6.0.2\\automapper.extensions.expressionmapping.6.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

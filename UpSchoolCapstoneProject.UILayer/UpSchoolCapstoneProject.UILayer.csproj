@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.13" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.13" />
@@ -25,6 +26,7 @@
     <ProjectReference Include="..\UpSchoolCapstoneProject.APILayer\UpSchoolCapstoneProject.APILayer.csproj" />
     <ProjectReference Include="..\UpSchoolCapstoneProject.BusinessLayer\UpSchoolCapstoneProject.BusinessLayer.csproj" />
     <ProjectReference Include="..\UpSchoolCapstoneProject.DataAccessLayer\UpSchoolCapstoneProject.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\UpSchoolCapstoneProject.DTOLayer\UpSchoolCapstoneProject.DTOLayer.csproj" />
     <ProjectReference Include="..\UpSchoolCapstoneProject.EntityLayer\UpSchoolCapstoneProject.EntityLayer.csproj" />
   </ItemGroup>
 

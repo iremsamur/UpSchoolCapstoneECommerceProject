@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "iZ/iQhP9ytvSFb4lzznLKmxokgggpBmz4L6kXQPoCs5jytYEQVPpq/Xhw7VQ7fx0mAohCRNl+iv/V4ydsvipsw==",
+  "dgSpecHash": "u2G/j3OIuFGuPPee+tvwMddgGp68PL4TQv6dihpRbHuQILfdmvvPn3JsvTmv6xh4YzOajxDKjAoKsg+gY9Jfrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Desktop\\UpSchoolBootcamp\\UpSchoolCapstoneProject.UILayer\\UpSchoolCapstoneProject.APILayer\\UpSchoolCapstoneProject.APILayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
