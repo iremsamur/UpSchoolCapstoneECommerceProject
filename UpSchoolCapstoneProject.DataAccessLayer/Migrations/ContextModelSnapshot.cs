@@ -376,6 +376,46 @@ namespace UpSchoolCapstoneProject.DataAccessLayer.Migrations
                     b.ToTable("ItemDiscountScores");
                 });
 
+            modelBuilder.Entity("UpSchoolCapstoneProject.EntityLayer.Concrete.ItemDiscountScoresSpModel", b =>
+                {
+                    b.Property<int>("ItemID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ItemID"), 1L, 1);
+
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("ItemDiscount")
+                        .HasColumnType("float");
+
+                    b.Property<int>("ItemDiscountScoreID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ItemName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("ItemNewPrice")
+                        .HasColumnType("float");
+
+                    b.Property<double>("ItemOldPrice")
+                        .HasColumnType("float");
+
+                    b.Property<string>("ItemShowcaseImage")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("ItemTotalDiscountScore")
+                        .HasColumnType("float");
+
+                    b.HasKey("ItemID");
+
+                    b.ToTable("ItemDiscountScoresSpModels");
+                });
+
             modelBuilder.Entity("UpSchoolCapstoneProject.EntityLayer.Concrete.ItemImage", b =>
                 {
                     b.Property<int>("ItemImageID")
@@ -433,6 +473,37 @@ namespace UpSchoolCapstoneProject.DataAccessLayer.Migrations
                     b.HasIndex("ItemID");
 
                     b.ToTable("ItemRatings");
+                });
+
+            modelBuilder.Entity("UpSchoolCapstoneProject.EntityLayer.Concrete.ItemRatingsSpModel", b =>
+                {
+                    b.Property<int>("ItemID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ItemID"), 1L, 1);
+
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ItemName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ItemRatingID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ItemShowcaseImage")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ItemTotalRatingScore")
+                        .HasColumnType("int");
+
+                    b.HasKey("ItemID");
+
+                    b.ToTable("ItemRatingsSpModels");
                 });
 
             modelBuilder.Entity("UpSchoolCapstoneProject.EntityLayer.Concrete.SubCategory", b =>

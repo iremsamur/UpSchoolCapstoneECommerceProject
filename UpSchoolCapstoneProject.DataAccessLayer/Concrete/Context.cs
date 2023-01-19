@@ -23,6 +23,9 @@ namespace UpSchoolCapstoneProject.DataAccessLayer.Concrete
         public DbSet<ItemImage> ItemImages { get; set; }
         public DbSet<ItemDiscountScore> ItemDiscountScores { get; set; }
         public DbSet<ItemRatings> ItemRatings { get; set; }
-  
+
+        public DbSet<ItemRatingsSpModel> ItemRatingsSpModels { get; set; }
+        public DbSet<ItemDiscountScoresSpModel> ItemDiscountScoresSpModels { get; set; }
+
     }
 }

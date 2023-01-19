@@ -16,11 +16,46 @@
           "Microsoft.EntityFrameworkCore.Tools": "6.0.13",
           "Swashbuckle.AspNetCore": "6.2.3",
           "UpSchoolCapstoneProject.BusinessLayer": "1.0.0",
+          "UpSchoolCapstoneProject.DTOLayer": "1.0.0",
           "UpSchoolCapstoneProject.DataAccessLayer": "1.0.0",
           "UpSchoolCapstoneProject.EntityLayer": "1.0.0"
         },
         "runtime": {
           "UpSchoolCapstoneProject.APILayer.dll": {}
+        }
+      },
+      "AutoMapper/12.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      },
+      "AutoMapper.Extensions.ExpressionMapping/6.0.2": {
+        "dependencies": {
+          "AutoMapper": "12.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.Extensions.ExpressionMapping.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.2.0"
+          }
+        }
+      },
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.0": {
+        "dependencies": {
+          "AutoMapper": "12.0.0",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
         }
       },
       "FluentValidation/11.2.1": {
@@ -224,7 +259,7 @@
           "System.Text.Encodings.Web": "4.5.0"
         }
       },
-      "Microsoft.CSharp/4.5.0": {},
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Data.SqlClient/2.1.4": {
         "dependencies": {
           "Microsoft.Data.SqlClient.SNI.runtime": "2.1.1",
@@ -510,7 +545,7 @@
       },
       "Microsoft.IdentityModel.Tokens/6.8.0": {
         "dependencies": {
-          "Microsoft.CSharp": "4.5.0",
+          "Microsoft.CSharp": "4.7.0",
           "Microsoft.IdentityModel.Logging": "6.8.0",
           "System.Security.Cryptography.Cng": "4.5.0"
         },
@@ -780,6 +815,15 @@
           "UpSchoolCapstoneProject.DataAccessLayer.dll": {}
         }
       },
+      "UpSchoolCapstoneProject.DTOLayer/1.0.0": {
+        "dependencies": {
+          "AutoMapper.Extensions.ExpressionMapping": "6.0.2",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0"
+        },
+        "runtime": {
+          "UpSchoolCapstoneProject.DTOLayer.dll": {}
+        }
+      },
       "UpSchoolCapstoneProject.EntityLayer/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity": "2.2.0",
@@ -798,6 +842,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/12.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Rmg0zI5AFu1O/y//o9VGyhxKjhggWpk9mOA1tp0DEVx40c61bs+lnQv+0jUq8XbniF7FKgIVvI1perqiMtLrA==",
+      "path": "automapper/12.0.0",
+      "hashPath": "automapper.12.0.0.nupkg.sha512"
+    },
+    "AutoMapper.Extensions.ExpressionMapping/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rxh8cckOQsr4KG7d5/x9febfbGsGnPQJY6nFmJvIEFBxwjg7JPBDVhyleFqFD7tqulNBKhmAfHc3xLKDumIB1w==",
+      "path": "automapper.extensions.expressionmapping/6.0.2",
+      "hashPath": "automapper.extensions.expressionmapping.6.0.2.nupkg.sha512"
+    },
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XCJ4E3oKrbRl1qY9Mr+7uyC0xZj1+bqQjmQRWTiTKiVuuXTny+7YFWHi20tPjwkMukLbicN6yGlDy5PZ4wyi1w==",
+      "path": "automapper.extensions.microsoft.dependencyinjection/12.0.0",
+      "hashPath": "automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512"
     },
     "FluentValidation/11.2.1": {
       "type": "package",
@@ -967,12 +1032,12 @@
       "path": "microsoft.aspnetcore.webutilities/2.2.0",
       "hashPath": "microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512"
     },
-    "Microsoft.CSharp/4.5.0": {
+    "Microsoft.CSharp/4.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
-      "path": "microsoft.csharp/4.5.0",
-      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
     "Microsoft.Data.SqlClient/2.1.4": {
       "type": "package",
@@ -1386,6 +1451,11 @@
       "sha512": ""
     },
     "UpSchoolCapstoneProject.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UpSchoolCapstoneProject.DTOLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -2593,6 +2593,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.13",
           "Swashbuckle.AspNetCore": "6.2.3",
           "UpSchoolCapstoneProject.BusinessLayer": "1.0.0",
+          "UpSchoolCapstoneProject.DTOLayer": "1.0.0",
           "UpSchoolCapstoneProject.DataAccessLayer": "1.0.0",
           "UpSchoolCapstoneProject.EntityLayer": "1.0.0"
         },

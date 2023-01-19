@@ -77,3 +77,8 @@ C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolC
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.BusinessLayer.pdb
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.pdb
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.EntityLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.pdb

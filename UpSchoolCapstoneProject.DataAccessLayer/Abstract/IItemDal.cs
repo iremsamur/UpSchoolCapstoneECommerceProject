@@ -12,9 +12,9 @@ namespace UpSchoolCapstoneProject.DataAccessLayer.Abstract
         List<Item> GetItemWithImage();
         List<Item> GetItemWithImageAndCategoryAndDetail();
         Item GetItemWithImageAndCategoryByCategory(int CategoryID);
-        /*
+        
         ItemRatingsSpModel GetMostLikedItemAllDetails(int CategoryID);
         ItemDiscountScoresSpModel GetMostDiscountedItemAllDetails(int CategoryID);
-        */
+        
     }
 }

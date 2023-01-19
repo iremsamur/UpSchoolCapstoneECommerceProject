@@ -60,7 +60,7 @@ namespace UpSchoolCapstoneProject.BusinessLayer.Concrete
         {
             _itemDal.Update(t);
         }
-        /*
+        
         public ItemRatingsSpModel TGetMostLikedItemAllDetails(int CategoryID)
         {
             return _itemDal.GetMostLikedItemAllDetails(CategoryID);
@@ -70,6 +70,6 @@ namespace UpSchoolCapstoneProject.BusinessLayer.Concrete
         {
             return _itemDal.GetMostDiscountedItemAllDetails(CategoryID);
         }
-        */
+        
     }
 }

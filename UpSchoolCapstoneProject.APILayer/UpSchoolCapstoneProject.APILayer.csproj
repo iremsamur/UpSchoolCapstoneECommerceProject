@@ -25,6 +25,7 @@
   <ItemGroup>
     <ProjectReference Include="..\UpSchoolCapstoneProject.BusinessLayer\UpSchoolCapstoneProject.BusinessLayer.csproj" />
     <ProjectReference Include="..\UpSchoolCapstoneProject.DataAccessLayer\UpSchoolCapstoneProject.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\UpSchoolCapstoneProject.DTOLayer\UpSchoolCapstoneProject.DTOLayer.csproj" />
     <ProjectReference Include="..\UpSchoolCapstoneProject.EntityLayer\UpSchoolCapstoneProject.EntityLayer.csproj" />
   </ItemGroup>
 

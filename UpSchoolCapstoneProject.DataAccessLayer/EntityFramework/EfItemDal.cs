@@ -39,27 +39,25 @@ namespace UpSchoolCapstoneProject.DataAccessLayer.EntityFramework
 
             return value;
         }
-        /*
+        
         public ItemDiscountScoresSpModel GetMostDiscountedItemAllDetails(int CategoryID)
         {
-            Context context = new Context();
-
-
+            
 
             string sql = $"SpGetMostDiscountedItemsByCategory {CategoryID}";
-            return context.ItemDiscountScoresSpModels.FromSqlRaw<ItemDiscountScoresSpModel>(sql).AsEnumerable().FirstOrDefault();
+            return _context.ItemDiscountScoresSpModels.FromSqlRaw<ItemDiscountScoresSpModel>(sql).AsEnumerable().FirstOrDefault();
         }
 
         public ItemRatingsSpModel GetMostLikedItemAllDetails(int CategoryID)
         {
-            Context context = new Context();
+     
 
 
 
             string sql = $"SpGetMostLikedItemsByCategory {CategoryID}";
-            return context.ItemRatingsSpModels.FromSqlRaw<ItemRatingsSpModel>(sql).AsEnumerable().FirstOrDefault();
+            return _context.ItemRatingsSpModels.FromSqlRaw<ItemRatingsSpModel>(sql).AsEnumerable().FirstOrDefault();
 
         }
-        */
+        
     }
 }

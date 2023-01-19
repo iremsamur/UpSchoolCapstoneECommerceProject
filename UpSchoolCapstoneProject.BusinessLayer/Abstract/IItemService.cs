@@ -15,7 +15,7 @@ namespace UpSchoolCapstoneProject.BusinessLayer.Abstract
 
         Item TGetItemWithImageAndCategoryByCategory(int CategoryID);
 
-        //ItemRatingsSpModel TGetMostLikedItemAllDetails(int CategoryID);
-        //ItemDiscountScoresSpModel TGetMostDiscountedItemAllDetails(int CategoryID);
+        ItemRatingsSpModel TGetMostLikedItemAllDetails(int CategoryID);
+        ItemDiscountScoresSpModel TGetMostDiscountedItemAllDetails(int CategoryID);
     }
 }

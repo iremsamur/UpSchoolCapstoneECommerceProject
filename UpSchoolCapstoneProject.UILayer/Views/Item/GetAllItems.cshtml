@@ -1,0 +1,33 @@
+﻿@model List<GetItemQueryResult>
+@{
+    Layout = null;
+}
+
+<h1>Items</h1>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            #
+        </th>
+        <th>
+            Adı
+        </th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.ItemID
+                <!--bu değerler Class1'den gelir. Geçici model olan class1'i tanımladım.'-->
+            </td>
+            <td>
+                @item.Name
+            </td>
+
+        </tr>
+    }
+
+</table>
