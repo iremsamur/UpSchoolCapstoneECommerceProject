@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.deps.json
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\refint\UpSchoolCapstoneProject.DTOLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\UpSchoolCapstoneProject.DTOLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.DTOLayer\obj\Debug\net6.0\ref\UpSchoolCapstoneProject.DTOLayer.dll

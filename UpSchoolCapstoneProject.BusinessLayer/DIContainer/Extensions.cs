@@ -5,6 +5,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UpSchoolCapstoneProject.BusinessLayer.Abstract;
+using UpSchoolCapstoneProject.BusinessLayer.Concrete;
+using UpSchoolCapstoneProject.DataAccessLayer.Abstract;
+using UpSchoolCapstoneProject.DataAccessLayer.EntityFramework;
 
 namespace UpSchoolCapstoneProject.BusinessLayer.DIContainer
 {
@@ -15,8 +19,8 @@ namespace UpSchoolCapstoneProject.BusinessLayer.DIContainer
             //Startup içindeki tüm servisleri IServiceCollection'ları burada almak için IServiceCollection'ı veriyoruz.
             //Startup'daki servisler çok fazla olduğu için, business ya da data access layer içinde containerdependencies içinde ServiceCollection burada çağırılır. 
             //Buradaki this ise Bu IServiceCollection'ı kullandığımızı belirtiyor.
-            //services.AddScoped<ICategoryService, CategoryManager>();
-            //services.AddScoped<IItemDal, EfCategoryDal>();
+            services.AddScoped<IItemService, ItemManager>();
+            services.AddScoped<IItemDal, EfItemDal>();
            
 
         }

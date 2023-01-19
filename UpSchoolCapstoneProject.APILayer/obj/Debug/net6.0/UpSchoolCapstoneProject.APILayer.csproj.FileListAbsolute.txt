@@ -65,3 +65,15 @@ C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolC
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\obj\Debug\net6.0\UpSchoolCapstoneProject.APILayer.pdb
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\obj\Debug\net6.0\UpSchoolCapstoneProject.APILayer.genruntimeconfig.cache
 C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\obj\Debug\net6.0\ref\UpSchoolCapstoneProject.APILayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\MediatR.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.BusinessLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.EntityLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.BusinessLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.DataAccessLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\UpSchoolCapstoneProject.UILayer\UpSchoolCapstoneProject.APILayer\bin\Debug\net6.0\UpSchoolCapstoneProject.EntityLayer.pdb
